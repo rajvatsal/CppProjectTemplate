@@ -1,37 +1,31 @@
+-- Core/Build-Core.lua
 project "Core"
    kind "StaticLib"
    language "C++"
    cppdialect "C++20"
-   targetdir "Binaries/%{cfg.buildcfg}"
+   targetdir ("../Binaries/" .. OutputDir .. "/Core")
+   objdir ("../Binaries/Intermediates/" .. OutputDir .. "/Core")
    staticruntime "off"
 
    files { "Source/**.h", "Source/**.cpp" }
 
-   includedirs
-   {
-      "Source"
-   }
-
-   targetdir ("../Binaries/" .. OutputDir .. "/%{prj.name}")
-   objdir ("../Binaries/Intermediates/" .. OutputDir .. "/%{prj.name}")
+   includedirs { "Source" }
 
    filter "system:windows"
-       systemversion "latest"
-       defines { }
+      systemversion "latest"
 
    filter "configurations:Debug"
-       defines { "DEBUG" }
-       runtime "Debug"
-       symbols "On"
+      defines { "DEBUG" }
+      runtime "Debug"
+      symbols "On"
 
    filter "configurations:Release"
-       defines { "RELEASE" }
-       runtime "Release"
-       optimize "On"
-       symbols "On"
+      defines { "RELEASE" }
+      runtime "Release"
+      optimize "On"
 
    filter "configurations:Dist"
-       defines { "DIST" }
-       runtime "Release"
-       optimize "On"
-       symbols "Off"
+      defines { "DIST" }
+      runtime "Release"
+      optimize "On"
+      symbols "Off"

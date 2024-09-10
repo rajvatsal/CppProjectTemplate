@@ -1,0 +1,2095 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "App/Source/App.cpp",
+			"settings":
+			{
+				"buffer_size": 63,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					5,
+					1,
+					"replace_view_content",
+					{
+						"region":
+						[
+							0,
+							63
+						],
+						"result": "#include \"Core/Core.h\"\n\nint main() { Core::PrintHelloWorld(); }"
+					},
+					"AQAAAAAAAAAAAAAAPwAAAAAAAAA/AAAAI2luY2x1ZGUgIkNvcmUvQ29yZS5oIgoKaW50IG1haW4oKSB7IENvcmU6OlByaW50SGVsbG9Xb3JsZCgpOyB9",
+					"CAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAXAAAAAAAAABcAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					17,
+					1,
+					"replace_view_content",
+					{
+						"region":
+						[
+							0,
+							63
+						],
+						"result": "#include \"Core/Core.h\"\n\nint main() { Core::PrintHelloWorld(); }"
+					},
+					"AQAAAAAAAAAAAAAAPwAAAAAAAAA/AAAAI2luY2x1ZGUgIkNvcmUvQ29yZS5oIgoKaW50IG1haW4oKSB7IENvcmU6OlByaW50SGVsbG9Xb3JsZCgpOyB9",
+					"CAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA+AAAAAAAAAD4AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					6,
+					1,
+					"replace_view_content",
+					{
+						"region":
+						[
+							0,
+							63
+						],
+						"result": "#include \"Core/Core.h\"\n\nint main() { Core::PrintHelloWorld(); }"
+					},
+					"AQAAAAAAAAAAAAAAPwAAAAAAAAA/AAAAI2luY2x1ZGUgIkNvcmUvQ29yZS5oIgoKaW50IG1haW4oKSB7IENvcmU6OlByaW50SGVsbG9Xb3JsZCgpOyB9",
+					"BwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAPgAAAAAAAAA+AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					1,
+					"replace_view_content",
+					{
+						"region":
+						[
+							0,
+							63
+						],
+						"result": "#include \"Core/Core.h\"\n\nint main() { Core::PrintHelloWorld(); }"
+					},
+					"AQAAAAAAAAAAAAAAPwAAAAAAAAA/AAAAI2luY2x1ZGUgIkNvcmUvQ29yZS5oIgoKaW50IG1haW4oKSB7IENvcmU6OlByaW50SGVsbG9Xb3JsZCgpOyB9",
+					"BwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAPgAAAAAAAAA+AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					29,
+					1,
+					"vi_eval",
+					{
+						"action_args":
+						{
+						},
+						"action_command": "vi_right_delete",
+						"motion_args":
+						{
+						},
+						"motion_clip_to_line": false,
+						"motion_command": null,
+						"motion_inclusive": false,
+						"motion_mode": 0
+					},
+					"AQAAAD4AAAAAAAAAPgAAAAAAAAABAAAAfQ",
+					"BwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAPgAAAAAAAAA+AAAAAAAAAAAAAAAAcHJA"
+				],
+				[
+					30,
+					1,
+					"trim_trailing_white_space",
+					null,
+					"AQAAAD0AAAAAAAAAPQAAAAAAAAABAAAAIA",
+					"BwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAPQAAAAAAAAA9AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					38,
+					1,
+					"replace_view_content",
+					{
+						"region":
+						[
+							0,
+							61
+						],
+						"result": "#include \"Core/Core.h\"\n\nint main() {\n  Core::PrintHelloWorld();"
+					},
+					"AQAAAAAAAAAAAAAAPwAAAAAAAAA9AAAAI2luY2x1ZGUgIkNvcmUvQ29yZS5oIgoKaW50IG1haW4oKSB7IENvcmU6OlByaW50SGVsbG9Xb3JsZCgpOw",
+					"BwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAPQAAAAAAAAA9AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					42,
+					1,
+					"replace_view_content",
+					{
+						"region":
+						[
+							0,
+							63
+						],
+						"result": "#include \"Core/Core.h\"\n\nint main() {\n  Core::PrintHelloWorld();"
+					},
+					"AQAAAAAAAAAAAAAAPwAAAAAAAAA/AAAAI2luY2x1ZGUgIkNvcmUvQ29yZS5oIgoKaW50IG1haW4oKSB7CiAgQ29yZTo6UHJpbnRIZWxsb1dvcmxkKCk7",
+					"BwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAPwAAAAAAAAA/AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					46,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"insert",
+								{
+									"characters": "}"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"AQAAAD8AAAAAAAAAQAAAAAAAAAAAAAAA",
+					"BwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAPwAAAAAAAAA/AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					48,
+					1,
+					"replace_view_content",
+					{
+						"region":
+						[
+							0,
+							64
+						],
+						"result": "#include \"Core/Core.h\"\n\nint main() { Core::PrintHelloWorld(); }"
+					},
+					"AQAAAAAAAAAAAAAAPwAAAAAAAABAAAAAI2luY2x1ZGUgIkNvcmUvQ29yZS5oIgoKaW50IG1haW4oKSB7CiAgQ29yZTo6UHJpbnRIZWxsb1dvcmxkKCk7fQ",
+					"BwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAPwAAAAAAAAA/AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					52,
+					1,
+					"replace_view_content",
+					{
+						"region":
+						[
+							0,
+							63
+						],
+						"result": "#include \"Core/Core.h\"\n\nint main() { Core::PrintHelloWorld(); }"
+					},
+					"AQAAAAAAAAAAAAAAPwAAAAAAAAA/AAAAI2luY2x1ZGUgIkNvcmUvQ29yZS5oIgoKaW50IG1haW4oKSB7IENvcmU6OlByaW50SGVsbG9Xb3JsZCgpOyB9",
+					"BwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAPgAAAAAAAAA+AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					57,
+					1,
+					"vi_eval",
+					{
+						"action_args":
+						{
+						},
+						"action_command": "vi_right_delete",
+						"motion_args":
+						{
+						},
+						"motion_clip_to_line": false,
+						"motion_command": null,
+						"motion_inclusive": false,
+						"motion_mode": 0
+					},
+					"AQAAAD4AAAAAAAAAPgAAAAAAAAABAAAAfQ",
+					"BwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAPgAAAAAAAAA+AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					58,
+					1,
+					"trim_trailing_white_space",
+					null,
+					"AQAAAD0AAAAAAAAAPQAAAAAAAAABAAAAIA",
+					"BwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAPQAAAAAAAAA9AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					59,
+					1,
+					"replace_view_content",
+					{
+						"region":
+						[
+							0,
+							61
+						],
+						"result": "#include \"Core/Core.h\"\n\nint main() {\n  Core::PrintHelloWorld();"
+					},
+					"AQAAAAAAAAAAAAAAPwAAAAAAAAA9AAAAI2luY2x1ZGUgIkNvcmUvQ29yZS5oIgoKaW50IG1haW4oKSB7IENvcmU6OlByaW50SGVsbG9Xb3JsZCgpOw",
+					"BwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAPQAAAAAAAAA9AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					63,
+					1,
+					"replace_view_content",
+					{
+						"region":
+						[
+							0,
+							63
+						],
+						"result": "#include \"Core/Core.h\"\n\nint main() {\n  Core::PrintHelloWorld();"
+					},
+					"AQAAAAAAAAAAAAAAPwAAAAAAAAA/AAAAI2luY2x1ZGUgIkNvcmUvQ29yZS5oIgoKaW50IG1haW4oKSB7CiAgQ29yZTo6UHJpbnRIZWxsb1dvcmxkKCk7",
+					"BwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAPwAAAAAAAAA/AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					90,
+					1,
+					"replace_view_content",
+					{
+						"region":
+						[
+							0,
+							63
+						],
+						"result": "#include \"Core/Core.h\"\n\nint main() {\n  Core::PrintHelloWorld();"
+					},
+					"AQAAAAAAAAAAAAAAPwAAAAAAAAA/AAAAI2luY2x1ZGUgIkNvcmUvQ29yZS5oIgoKaW50IG1haW4oKSB7CiAgQ29yZTo6UHJpbnRIZWxsb1dvcmxkKCk7",
+					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAADAAAAAAAAAAMAAAAAAAAAAAAAAAAEBVQA"
+				],
+				[
+					104,
+					1,
+					"replace_view_content",
+					{
+						"region":
+						[
+							0,
+							63
+						],
+						"result": "#include \"Core/Core.h\"\n\nint main() {\n  Core::PrintHelloWorld();"
+					},
+					"AQAAAAAAAAAAAAAAPwAAAAAAAAA/AAAAI2luY2x1ZGUgIkNvcmUvQ29yZS5oIgoKaW50IG1haW4oKSB7CiAgQ29yZTo6UHJpbnRIZWxsb1dvcmxkKCk7",
+					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAADAAAAAAAAAAMAAAAAAAAAAAAAAAAEBVQA"
+				],
+				[
+					114,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"move_to",
+								{
+									"register": "\"",
+									"to": "hardeol"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "}"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"AgAAAD8AAAAAAAAAQAAAAAAAAAAAAAAAPwAAAAAAAAA/AAAAAAAAAAEAAAB9",
+					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAADAAAAAAAAAAMAAAAAAAAAAAAAAAAEBVQA"
+				],
+				[
+					157,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true,
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "}"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"AQAAAD8AAAAAAAAAQAAAAAAAAAAAAAAA",
+					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAD4AAAAAAAAAPgAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					159,
+					1,
+					"replace_view_content",
+					{
+						"region":
+						[
+							0,
+							64
+						],
+						"result": "#include \"Core/Core.h\"\n\nint main() { Core::PrintHelloWorld(); }"
+					},
+					"AQAAAAAAAAAAAAAAPwAAAAAAAABAAAAAI2luY2x1ZGUgIkNvcmUvQ29yZS5oIgoKaW50IG1haW4oKSB7CiAgQ29yZTo6UHJpbnRIZWxsb1dvcmxkKCk7fQ",
+					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAD8AAAAAAAAAPwAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					163,
+					1,
+					"replace_view_content",
+					{
+						"region":
+						[
+							0,
+							63
+						],
+						"result": "#include \"Core/Core.h\"\n\nint main() { Core::PrintHelloWorld(); }"
+					},
+					"AQAAAAAAAAAAAAAAPwAAAAAAAAA/AAAAI2luY2x1ZGUgIkNvcmUvQ29yZS5oIgoKaW50IG1haW4oKSB7IENvcmU6OlByaW50SGVsbG9Xb3JsZCgpOyB9",
+					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAD4AAAAAAAAAPgAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					180,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAD4AAAAAAAAAPwAAAAAAAAAAAAAA",
+					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAD4AAAAAAAAAPgAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					184,
+					1,
+					"vi_eval",
+					{
+						"action_args":
+						{
+						},
+						"action_command": "vi_right_delete",
+						"motion_args":
+						{
+						},
+						"motion_clip_to_line": false,
+						"motion_command": null,
+						"motion_inclusive": false,
+						"motion_mode": 0
+					},
+					"AQAAAD8AAAAAAAAAPwAAAAAAAAABAAAAfQ",
+					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAD8AAAAAAAAAPwAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					185,
+					1,
+					"trim_trailing_white_space",
+					null,
+					"AQAAAD0AAAAAAAAAPQAAAAAAAAABAAAAIA",
+					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAD8AAAAAAAAAPwAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					186,
+					1,
+					"replace_view_content",
+					{
+						"region":
+						[
+							0,
+							62
+						],
+						"result": "#include \"Core/Core.h\"\n\nint main() {\n  Core::PrintHelloWorld();\n"
+					},
+					"AQAAAAAAAAAAAAAAQAAAAAAAAAA+AAAAI2luY2x1ZGUgIkNvcmUvQ29yZS5oIgoKaW50IG1haW4oKSB7IENvcmU6OlByaW50SGVsbG9Xb3JsZCgpOwo",
+					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAD4AAAAAAAAAPgAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					190,
+					1,
+					"replace_view_content",
+					{
+						"region":
+						[
+							0,
+							64
+						],
+						"result": "#include \"Core/Core.h\"\n\nint main() {\n  Core::PrintHelloWorld();\n"
+					},
+					"AQAAAAAAAAAAAAAAQAAAAAAAAABAAAAAI2luY2x1ZGUgIkNvcmUvQ29yZS5oIgoKaW50IG1haW4oKSB7CiAgQ29yZTo6UHJpbnRIZWxsb1dvcmxkKCk7Cg",
+					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					194,
+					1,
+					"replace_view_content",
+					{
+						"region":
+						[
+							0,
+							64
+						],
+						"result": "#include \"Core/Core.h\"\n\nint main() {\n  Core::PrintHelloWorld();\n"
+					},
+					"AQAAAAAAAAAAAAAAQAAAAAAAAABAAAAAI2luY2x1ZGUgIkNvcmUvQ29yZS5oIgoKaW50IG1haW4oKSB7CiAgQ29yZTo6UHJpbnRIZWxsb1dvcmxkKCk7Cg",
+					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					200,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"insert",
+								{
+									"characters": "}"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"AQAAAEAAAAAAAAAAQQAAAAAAAAAAAAAA",
+					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					202,
+					1,
+					"replace_view_content",
+					{
+						"region":
+						[
+							0,
+							65
+						],
+						"result": "#include \"Core/Core.h\"\n\nint main() { Core::PrintHelloWorld(); }"
+					},
+					"AQAAAAAAAAAAAAAAPwAAAAAAAABBAAAAI2luY2x1ZGUgIkNvcmUvQ29yZS5oIgoKaW50IG1haW4oKSB7CiAgQ29yZTo6UHJpbnRIZWxsb1dvcmxkKCk7Cn0",
+					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					206,
+					1,
+					"replace_view_content",
+					{
+						"region":
+						[
+							0,
+							63
+						],
+						"result": "#include \"Core/Core.h\"\n\nint main() { Core::PrintHelloWorld(); }"
+					},
+					"AQAAAAAAAAAAAAAAPwAAAAAAAAA/AAAAI2luY2x1ZGUgIkNvcmUvQ29yZS5oIgoKaW50IG1haW4oKSB7IENvcmU6OlByaW50SGVsbG9Xb3JsZCgpOyB9",
+					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAD4AAAAAAAAAPgAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					210,
+					1,
+					"replace_view_content",
+					{
+						"region":
+						[
+							0,
+							63
+						],
+						"result": "#include \"Core/Core.h\"\n\nint main() { Core::PrintHelloWorld(); }"
+					},
+					"AQAAAAAAAAAAAAAAPwAAAAAAAAA/AAAAI2luY2x1ZGUgIkNvcmUvQ29yZS5oIgoKaW50IG1haW4oKSB7IENvcmU6OlByaW50SGVsbG9Xb3JsZCgpOyB9",
+					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAD4AAAAAAAAAPgAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					218,
+					1,
+					"vi_eval",
+					{
+						"action_args":
+						{
+						},
+						"action_command": "vi_right_delete",
+						"motion_args":
+						{
+						},
+						"motion_clip_to_line": false,
+						"motion_command": null,
+						"motion_inclusive": false,
+						"motion_mode": 0
+					},
+					"AQAAAD4AAAAAAAAAPgAAAAAAAAABAAAAfQ",
+					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAD4AAAAAAAAAPgAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					219,
+					1,
+					"trim_trailing_white_space",
+					null,
+					"AQAAAD0AAAAAAAAAPQAAAAAAAAABAAAAIA",
+					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAD0AAAAAAAAAPQAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					233,
+					1,
+					"replace_view_content",
+					{
+						"region":
+						[
+							0,
+							61
+						],
+						"result": "#include \"Core/Core.h\"\n\nint main() {\n  Core::PrintHelloWorld();"
+					},
+					"AQAAAAAAAAAAAAAAPwAAAAAAAAA9AAAAI2luY2x1ZGUgIkNvcmUvQ29yZS5oIgoKaW50IG1haW4oKSB7IENvcmU6OlByaW50SGVsbG9Xb3JsZCgpOw",
+					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAD0AAAAAAAAAPQAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					237,
+					1,
+					"replace_view_content",
+					{
+						"region":
+						[
+							0,
+							63
+						],
+						"result": "#include \"Core/Core.h\"\n\nint main() {\n  Core::PrintHelloWorld();"
+					},
+					"AQAAAAAAAAAAAAAAPwAAAAAAAAA/AAAAI2luY2x1ZGUgIkNvcmUvQ29yZS5oIgoKaW50IG1haW4oKSB7CiAgQ29yZTo6UHJpbnRIZWxsb1dvcmxkKCk7",
+					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAD8AAAAAAAAAPwAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					241,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"insert",
+								{
+									"characters": "}"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"AQAAAD8AAAAAAAAAQAAAAAAAAAAAAAAA",
+					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAD8AAAAAAAAAPwAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					243,
+					1,
+					"replace_view_content",
+					{
+						"region":
+						[
+							0,
+							64
+						],
+						"result": "#include \"Core/Core.h\"\n\nint main() { Core::PrintHelloWorld(); }"
+					},
+					"AQAAAAAAAAAAAAAAPwAAAAAAAABAAAAAI2luY2x1ZGUgIkNvcmUvQ29yZS5oIgoKaW50IG1haW4oKSB7CiAgQ29yZTo6UHJpbnRIZWxsb1dvcmxkKCk7fQ",
+					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAD8AAAAAAAAAPwAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					247,
+					1,
+					"replace_view_content",
+					{
+						"region":
+						[
+							0,
+							63
+						],
+						"result": "#include \"Core/Core.h\"\n\nint main() { Core::PrintHelloWorld(); }"
+					},
+					"AQAAAAAAAAAAAAAAPwAAAAAAAAA/AAAAI2luY2x1ZGUgIkNvcmUvQ29yZS5oIgoKaW50IG1haW4oKSB7IENvcmU6OlByaW50SGVsbG9Xb3JsZCgpOyB9",
+					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAD4AAAAAAAAAPgAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					5,
+					1,
+					"vi_eval",
+					{
+						"action_args":
+						{
+						},
+						"action_command": "vi_right_delete",
+						"motion_args":
+						{
+						},
+						"motion_clip_to_line": false,
+						"motion_command": null,
+						"motion_inclusive": false,
+						"motion_mode": 0
+					},
+					"AQAAAD4AAAAAAAAAPgAAAAAAAAABAAAAfQ",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA+AAAAAAAAAD4AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					6,
+					1,
+					"trim_trailing_white_space",
+					null,
+					"AQAAAD0AAAAAAAAAPQAAAAAAAAABAAAAIA",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA9AAAAAAAAAD0AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					7,
+					1,
+					"replace_view_content",
+					{
+						"region":
+						[
+							0,
+							61
+						],
+						"result": "#include \"Core/Core.h\"\n\nint main() {\n  Core::PrintHelloWorld();"
+					},
+					"AQAAAAAAAAAAAAAAPwAAAAAAAAA9AAAAI2luY2x1ZGUgIkNvcmUvQ29yZS5oIgoKaW50IG1haW4oKSB7IENvcmU6OlByaW50SGVsbG9Xb3JsZCgpOw",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA9AAAAAAAAAD0AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					11,
+					1,
+					"replace_view_content",
+					{
+						"region":
+						[
+							0,
+							63
+						],
+						"result": "#include \"Core/Core.h\"\n\nint main() {\n  Core::PrintHelloWorld();"
+					},
+					"AQAAAAAAAAAAAAAAPwAAAAAAAAA/AAAAI2luY2x1ZGUgIkNvcmUvQ29yZS5oIgoKaW50IG1haW4oKSB7CiAgQ29yZTo6UHJpbnRIZWxsb1dvcmxkKCk7",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA/AAAAAAAAAD8AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					20,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true,
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "}"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"AQAAAD8AAAAAAAAAQAAAAAAAAAAAAAAA",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA+AAAAAAAAAD4AAAAAAAAAAAAAAABAaUA"
+				],
+				[
+					22,
+					1,
+					"replace_view_content",
+					{
+						"region":
+						[
+							0,
+							64
+						],
+						"result": "#include \"Core/Core.h\"\n\nint main() { Core::PrintHelloWorld(); }"
+					},
+					"AQAAAAAAAAAAAAAAPwAAAAAAAABAAAAAI2luY2x1ZGUgIkNvcmUvQ29yZS5oIgoKaW50IG1haW4oKSB7CiAgQ29yZTo6UHJpbnRIZWxsb1dvcmxkKCk7fQ",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA/AAAAAAAAAD8AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					26,
+					1,
+					"replace_view_content",
+					{
+						"region":
+						[
+							0,
+							63
+						],
+						"result": "#include \"Core/Core.h\"\n\nint main() { Core::PrintHelloWorld(); }"
+					},
+					"AQAAAAAAAAAAAAAAPwAAAAAAAAA/AAAAI2luY2x1ZGUgIkNvcmUvQ29yZS5oIgoKaW50IG1haW4oKSB7IENvcmU6OlByaW50SGVsbG9Xb3JsZCgpOyB9",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA+AAAAAAAAAD4AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					36,
+					1,
+					"vi_eval",
+					{
+						"action_args":
+						{
+						},
+						"action_command": "vi_right_delete",
+						"motion_args":
+						{
+						},
+						"motion_clip_to_line": false,
+						"motion_command": null,
+						"motion_inclusive": false,
+						"motion_mode": 0
+					},
+					"AQAAAD4AAAAAAAAAPgAAAAAAAAABAAAAfQ",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA+AAAAAAAAAD4AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					37,
+					1,
+					"trim_trailing_white_space",
+					null,
+					"AQAAAD0AAAAAAAAAPQAAAAAAAAABAAAAIA",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA9AAAAAAAAAD0AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					55,
+					1,
+					"replace_view_content",
+					{
+						"region":
+						[
+							0,
+							61
+						],
+						"result": "#include \"Core/Core.h\"\n\nint main() {\n  Core::PrintHelloWorld();"
+					},
+					"AQAAAAAAAAAAAAAAPwAAAAAAAAA9AAAAI2luY2x1ZGUgIkNvcmUvQ29yZS5oIgoKaW50IG1haW4oKSB7IENvcmU6OlByaW50SGVsbG9Xb3JsZCgpOw",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA9AAAAAAAAAD0AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					59,
+					1,
+					"replace_view_content",
+					{
+						"region":
+						[
+							0,
+							63
+						],
+						"result": "#include \"Core/Core.h\"\n\nint main() {\n  Core::PrintHelloWorld();"
+					},
+					"AQAAAAAAAAAAAAAAPwAAAAAAAAA/AAAAI2luY2x1ZGUgIkNvcmUvQ29yZS5oIgoKaW50IG1haW4oKSB7CiAgQ29yZTo6UHJpbnRIZWxsb1dvcmxkKCk7",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA/AAAAAAAAAD8AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					26,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"run_macro_file",
+								{
+									"file": "res://Packages/Default/Add Line.sublime-macro",
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "}"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"BQAAAD8AAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAABCAAAAAAAAAAAAAABCAAAAAAAAAEMAAAAAAAAAAAAAAEAAAAAAAAAAQAAAAAAAAAACAAAAICBAAAAAAAAAAEAAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA/AAAAAAAAAD8AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					28,
+					1,
+					"replace_view_content",
+					{
+						"region":
+						[
+							0,
+							65
+						],
+						"result": "#include \"Core/Core.h\"\n\nint main() { Core::PrintHelloWorld(); }"
+					},
+					"AQAAAAAAAAAAAAAAPwAAAAAAAABBAAAAI2luY2x1ZGUgIkNvcmUvQ29yZS5oIgoKaW50IG1haW4oKSB7CiAgQ29yZTo6UHJpbnRIZWxsb1dvcmxkKCk7Cn0",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					32,
+					1,
+					"replace_view_content",
+					{
+						"region":
+						[
+							0,
+							63
+						],
+						"result": "#include \"Core/Core.h\"\n\nint main() { Core::PrintHelloWorld(); }"
+					},
+					"AQAAAAAAAAAAAAAAPwAAAAAAAAA/AAAAI2luY2x1ZGUgIkNvcmUvQ29yZS5oIgoKaW50IG1haW4oKSB7IENvcmU6OlByaW50SGVsbG9Xb3JsZCgpOyB9",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA+AAAAAAAAAD4AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					34,
+					1,
+					"vi_eval",
+					{
+						"action_args":
+						{
+						},
+						"action_command": "vi_right_delete",
+						"motion_args":
+						{
+						},
+						"motion_clip_to_line": false,
+						"motion_command": null,
+						"motion_inclusive": false,
+						"motion_mode": 0
+					},
+					"AQAAAD4AAAAAAAAAPgAAAAAAAAABAAAAfQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA+AAAAAAAAAD4AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					35,
+					1,
+					"trim_trailing_white_space",
+					null,
+					"AQAAAD0AAAAAAAAAPQAAAAAAAAABAAAAIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA9AAAAAAAAAD0AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					36,
+					1,
+					"replace_view_content",
+					{
+						"region":
+						[
+							0,
+							61
+						],
+						"result": "#include \"Core/Core.h\"\n\nint main() {\n  Core::PrintHelloWorld();"
+					},
+					"AQAAAAAAAAAAAAAAPwAAAAAAAAA9AAAAI2luY2x1ZGUgIkNvcmUvQ29yZS5oIgoKaW50IG1haW4oKSB7IENvcmU6OlByaW50SGVsbG9Xb3JsZCgpOw",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA9AAAAAAAAAD0AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					40,
+					1,
+					"replace_view_content",
+					{
+						"region":
+						[
+							0,
+							63
+						],
+						"result": "#include \"Core/Core.h\"\n\nint main() {\n  Core::PrintHelloWorld();"
+					},
+					"AQAAAAAAAAAAAAAAPwAAAAAAAAA/AAAAI2luY2x1ZGUgIkNvcmUvQ29yZS5oIgoKaW50IG1haW4oKSB7CiAgQ29yZTo6UHJpbnRIZWxsb1dvcmxkKCk7",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA/AAAAAAAAAD8AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					10,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true,
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "}"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"AQAAAD8AAAAAAAAAQAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPgAAAAAAAAA+AAAAAAAAAAAAAAAAQGlA"
+				],
+				[
+					26,
+					1,
+					"replace_view_content",
+					{
+						"region":
+						[
+							0,
+							64
+						],
+						"result": "#include \"Core/Core.h\"\n\nint main() { Core::PrintHelloWorld(); }"
+					},
+					"AQAAAAAAAAAAAAAAPwAAAAAAAABAAAAAI2luY2x1ZGUgIkNvcmUvQ29yZS5oIgoKaW50IG1haW4oKSB7CiAgQ29yZTo6UHJpbnRIZWxsb1dvcmxkKCk7fQ",
+					"AQAAAAAAAAABAAAAPwAAAAAAAAA/AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					30,
+					1,
+					"replace_view_content",
+					{
+						"region":
+						[
+							0,
+							63
+						],
+						"result": "#include \"Core/Core.h\"\n\nint main() { Core::PrintHelloWorld(); }"
+					},
+					"AQAAAAAAAAAAAAAAPwAAAAAAAAA/AAAAI2luY2x1ZGUgIkNvcmUvQ29yZS5oIgoKaW50IG1haW4oKSB7IENvcmU6OlByaW50SGVsbG9Xb3JsZCgpOyB9",
+					"AQAAAAAAAAABAAAAPgAAAAAAAAA+AAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 1955,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "TextEditor.sublime-project",
+			"settings":
+			{
+				"buffer_size": 642,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					9,
+					1,
+					"vi_eval",
+					{
+						"action_args":
+						{
+							"insert_command": "vi_delete"
+						},
+						"action_command": "enter_insert_mode",
+						"motion_args":
+						{
+							"repeat": 1
+						},
+						"motion_clip_to_line": false,
+						"motion_command": "vi_expand_to_words",
+						"motion_inclusive": false,
+						"motion_mode": 0
+					},
+					"AQAAAD8CAAAAAAAAPwIAAAAAAAADAAAAZ2Nj",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABBAgAAAAAAAEECAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					11,
+					1,
+					"replace_view_content",
+					{
+						"region":
+						[
+							0,
+							610
+						],
+						"result": "{\n  \"folders\": [\n    {\n      \"path\": \"F:\\\\repos\\\\CppProjectTemplate\",\n    },\n  ],\n  \"debugger_configurations\": [\n    {\n      \"type\": \"gdb\",\n      \"request\": \"launch\",\n      \"name\": \"Launch-GDB\",\n      \"target\": \"${folder}/Binaries/windows-x86_64/Debug/App/App.exe\",\n      \"cwd\": \"${folder}\",\n      \"valuesFormatting\": \"parseText\",\n    },\n    {\n      \"type\": \"lldb\",\n      \"request\": \"launch\",\n      \"name\": \"Launch-LLDB\",\n      \"program\": \"${folder}/Binaries/windows-x86_64/Debug/App/App.exe\",\n      \"args\": [],\n      \"cwd\": \"${folder}\",\n    },\n  ],\n  \"SublimeLinter.linters..compile_commands\": \"${folder}\",\n}\n"
+					},
+					"AQAAAAAAAAAAAAAAYgIAAAAAAABiAgAAewogICJmb2xkZXJzIjogWwogICAgewogICAgICAicGF0aCI6ICJGOlxccmVwb3NcXENwcFByb2plY3RUZW1wbGF0ZSIsCiAgICB9LAogIF0sCiAgImRlYnVnZ2VyX2NvbmZpZ3VyYXRpb25zIjogWwogICAgewogICAgICAidHlwZSI6ICJnZGIiLAogICAgICAicmVxdWVzdCI6ICJsYXVuY2giLAogICAgICAibmFtZSI6ICJMYXVuY2gtR0RCIiwKICAgICAgInRhcmdldCI6ICIke2ZvbGRlcn0vQmluYXJpZXMvd2luZG93cy14ODZfNjQvRGVidWcvQXBwL0FwcC5leGUiLAogICAgICAiY3dkIjogIiR7Zm9sZGVyfSIsCiAgICAgICJ2YWx1ZXNGb3JtYXR0aW5nIjogInBhcnNlVGV4dCIsCiAgICB9LAogICAgewogICAgICAidHlwZSI6ICJsbGRiIiwKICAgICAgInJlcXVlc3QiOiAibGF1bmNoIiwKICAgICAgIm5hbWUiOiAiTGF1bmNoLUxMREIiLAogICAgICAicHJvZ3JhbSI6ICIke2ZvbGRlcn0vQmluYXJpZXMvd2luZG93cy14ODZfNjQvRGVidWcvQXBwL0FwcC5leGUiLAogICAgICAiYXJncyI6IFtdLAogICAgICAiY3dkIjogIiR7Zm9sZGVyfSIsCiAgICB9LAogIF0sCiAgIlN1YmxpbWVMaW50ZXIubGludGVycy4uY29tcGlsZV9jb21tYW5kcyI6ICIke2ZvbGRlcn0iLAp9Cg",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA/AgAAAAAAAD8CAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					14,
+					1,
+					"insert",
+					{
+						"characters": "clangtidy"
+					},
+					"CQAAAD8CAAAAAAAAQAIAAAAAAAAAAAAAQAIAAAAAAABBAgAAAAAAAAAAAABBAgAAAAAAAEICAAAAAAAAAAAAAEICAAAAAAAAQwIAAAAAAAAAAAAAQwIAAAAAAABEAgAAAAAAAAAAAABEAgAAAAAAAEUCAAAAAAAAAAAAAEUCAAAAAAAARgIAAAAAAAAAAAAARgIAAAAAAABHAgAAAAAAAAAAAABHAgAAAAAAAEgCAAAAAAAAAAAAAA",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA/AgAAAAAAAD8CAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					22,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true,
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "/com"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "p"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "compile_commands",
+									"format": "text",
+									"keep_prefix": false,
+									"must_insert": false,
+									"trigger": "compile_commands"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": ".json"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"DAAAAGYCAAAAAAAAZwIAAAAAAAAAAAAAZwIAAAAAAABoAgAAAAAAAAAAAABoAgAAAAAAAGkCAAAAAAAAAAAAAGkCAAAAAAAAagIAAAAAAAAAAAAAagIAAAAAAABrAgAAAAAAAAAAAABnAgAAAAAAAGcCAAAAAAAABAAAAGNvbXBnAgAAAAAAAHcCAAAAAAAAAAAAAHcCAAAAAAAAeAIAAAAAAAAAAAAAeAIAAAAAAAB5AgAAAAAAAAAAAAB5AgAAAAAAAHoCAAAAAAAAAAAAAHoCAAAAAAAAewIAAAAAAAAAAAAAewIAAAAAAAB8AgAAAAAAAAAAAAA",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABlAgAAAAAAAGUCAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					24,
+					1,
+					"replace_view_content",
+					{
+						"region":
+						[
+							0,
+							641
+						],
+						"result": "{\n  \"folders\": [\n    {\n      \"path\": \"F:\\\\repos\\\\CppProjectTemplate\",\n    },\n  ],\n  \"debugger_configurations\": [\n    {\n      \"type\": \"gdb\",\n      \"request\": \"launch\",\n      \"name\": \"Launch-GDB\",\n      \"target\": \"${folder}/Binaries/windows-x86_64/Debug/App/App.exe\",\n      \"cwd\": \"${folder}\",\n      \"valuesFormatting\": \"parseText\",\n    },\n    {\n      \"type\": \"lldb\",\n      \"request\": \"launch\",\n      \"name\": \"Launch-LLDB\",\n      \"program\": \"${folder}/Binaries/windows-x86_64/Debug/App/App.exe\",\n      \"args\": [],\n      \"cwd\": \"${folder}\",\n    },\n  ],\n  \"SublimeLinter.linters.clangtidy.compile_commands\": \"${folder}/compile_commands.json\",\n}\n"
+					},
+					"AQAAAAAAAAAAAAAAgQIAAAAAAACBAgAAewogICJmb2xkZXJzIjogWwogICAgewogICAgICAicGF0aCI6ICJGOlxccmVwb3NcXENwcFByb2plY3RUZW1wbGF0ZSIsCiAgICB9LAogIF0sCiAgImRlYnVnZ2VyX2NvbmZpZ3VyYXRpb25zIjogWwogICAgewogICAgICAidHlwZSI6ICJnZGIiLAogICAgICAicmVxdWVzdCI6ICJsYXVuY2giLAogICAgICAibmFtZSI6ICJMYXVuY2gtR0RCIiwKICAgICAgInRhcmdldCI6ICIke2ZvbGRlcn0vQmluYXJpZXMvd2luZG93cy14ODZfNjQvRGVidWcvQXBwL0FwcC5leGUiLAogICAgICAiY3dkIjogIiR7Zm9sZGVyfSIsCiAgICAgICJ2YWx1ZXNGb3JtYXR0aW5nIjogInBhcnNlVGV4dCIsCiAgICB9LAogICAgewogICAgICAidHlwZSI6ICJsbGRiIiwKICAgICAgInJlcXVlc3QiOiAibGF1bmNoIiwKICAgICAgIm5hbWUiOiAiTGF1bmNoLUxMREIiLAogICAgICAicHJvZ3JhbSI6ICIke2ZvbGRlcn0vQmluYXJpZXMvd2luZG93cy14ODZfNjQvRGVidWcvQXBwL0FwcC5leGUiLAogICAgICAiYXJncyI6IFtdLAogICAgICAiY3dkIjogIiR7Zm9sZGVyfSIsCiAgICB9LAogIF0sCiAgIlN1YmxpbWVMaW50ZXIubGludGVycy5jbGFuZ3RpZHkuY29tcGlsZV9jb21tYW5kcyI6ICIke2ZvbGRlcn0vY29tcGlsZV9jb21tYW5kcy5qc29uIiwKfQo",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB7AgAAAAAAAHsCAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					8,
+					1,
+					"vi_eval",
+					{
+						"action_args":
+						{
+						},
+						"action_command": "vi_delete",
+						"motion_args":
+						{
+							"before": true,
+							"character": "\"",
+							"extend": true
+						},
+						"motion_clip_to_line": true,
+						"motion_command": "vi_move_to_character",
+						"motion_inclusive": true,
+						"motion_mode": 0
+					},
+					"AQAAAGYCAAAAAAAAZgIAAAAAAAAWAAAAL2NvbXBpbGVfY29tbWFuZHMuanNvbg",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGYCAAAAAAAAZgIAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					10,
+					1,
+					"replace_view_content",
+					{
+						"region":
+						[
+							0,
+							619
+						],
+						"result": "{\n  \"folders\": [\n    {\n      \"path\": \"F:\\\\repos\\\\CppProjectTemplate\",\n    },\n  ],\n  \"debugger_configurations\": [\n    {\n      \"type\": \"gdb\",\n      \"request\": \"launch\",\n      \"name\": \"Launch-GDB\",\n      \"target\": \"${folder}/Binaries/windows-x86_64/Debug/App/App.exe\",\n      \"cwd\": \"${folder}\",\n      \"valuesFormatting\": \"parseText\",\n    },\n    {\n      \"type\": \"lldb\",\n      \"request\": \"launch\",\n      \"name\": \"Launch-LLDB\",\n      \"program\": \"${folder}/Binaries/windows-x86_64/Debug/App/App.exe\",\n      \"args\": [],\n      \"cwd\": \"${folder}\",\n    },\n  ],\n  \"SublimeLinter.linters.clangtidy.compile_commands\": \"${folder}\",\n}\n"
+					},
+					"AQAAAAAAAAAAAAAAawIAAAAAAABrAgAAewogICJmb2xkZXJzIjogWwogICAgewogICAgICAicGF0aCI6ICJGOlxccmVwb3NcXENwcFByb2plY3RUZW1wbGF0ZSIsCiAgICB9LAogIF0sCiAgImRlYnVnZ2VyX2NvbmZpZ3VyYXRpb25zIjogWwogICAgewogICAgICAidHlwZSI6ICJnZGIiLAogICAgICAicmVxdWVzdCI6ICJsYXVuY2giLAogICAgICAibmFtZSI6ICJMYXVuY2gtR0RCIiwKICAgICAgInRhcmdldCI6ICIke2ZvbGRlcn0vQmluYXJpZXMvd2luZG93cy14ODZfNjQvRGVidWcvQXBwL0FwcC5leGUiLAogICAgICAiY3dkIjogIiR7Zm9sZGVyfSIsCiAgICAgICJ2YWx1ZXNGb3JtYXR0aW5nIjogInBhcnNlVGV4dCIsCiAgICB9LAogICAgewogICAgICAidHlwZSI6ICJsbGRiIiwKICAgICAgInJlcXVlc3QiOiAibGF1bmNoIiwKICAgICAgIm5hbWUiOiAiTGF1bmNoLUxMREIiLAogICAgICAicHJvZ3JhbSI6ICIke2ZvbGRlcn0vQmluYXJpZXMvd2luZG93cy14ODZfNjQvRGVidWcvQXBwL0FwcC5leGUiLAogICAgICAiYXJncyI6IFtdLAogICAgICAiY3dkIjogIiR7Zm9sZGVyfSIsCiAgICB9LAogIF0sCiAgIlN1YmxpbWVMaW50ZXIubGludGVycy5jbGFuZ3RpZHkuY29tcGlsZV9jb21tYW5kcyI6ICIke2ZvbGRlcn0iLAp9Cg",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGYCAAAAAAAAZgIAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					14,
+					1,
+					"replace_view_content",
+					{
+						"region":
+						[
+							0,
+							619
+						],
+						"result": "{\n  \"folders\": [\n    {\n      \"path\": \"F:\\\\repos\\\\CppProjectTemplate\",\n    },\n  ],\n  \"debugger_configurations\": [\n    {\n      \"type\": \"gdb\",\n      \"request\": \"launch\",\n      \"name\": \"Launch-GDB\",\n      \"target\": \"${folder}/Binaries/windows-x86_64/Debug/App/App.exe\",\n      \"cwd\": \"${folder}\",\n      \"valuesFormatting\": \"parseText\",\n    },\n    {\n      \"type\": \"lldb\",\n      \"request\": \"launch\",\n      \"name\": \"Launch-LLDB\",\n      \"program\": \"${folder}/Binaries/windows-x86_64/Debug/App/App.exe\",\n      \"args\": [],\n      \"cwd\": \"${folder}\",\n    },\n  ],\n  \"SublimeLinter.linters.clangtidy.compile_commands\": \"${folder}\",\n}\n"
+					},
+					"AQAAAAAAAAAAAAAAawIAAAAAAABrAgAAewogICJmb2xkZXJzIjogWwogICAgewogICAgICAicGF0aCI6ICJGOlxccmVwb3NcXENwcFByb2plY3RUZW1wbGF0ZSIsCiAgICB9LAogIF0sCiAgImRlYnVnZ2VyX2NvbmZpZ3VyYXRpb25zIjogWwogICAgewogICAgICAidHlwZSI6ICJnZGIiLAogICAgICAicmVxdWVzdCI6ICJsYXVuY2giLAogICAgICAibmFtZSI6ICJMYXVuY2gtR0RCIiwKICAgICAgInRhcmdldCI6ICIke2ZvbGRlcn0vQmluYXJpZXMvd2luZG93cy14ODZfNjQvRGVidWcvQXBwL0FwcC5leGUiLAogICAgICAiY3dkIjogIiR7Zm9sZGVyfSIsCiAgICAgICJ2YWx1ZXNGb3JtYXR0aW5nIjogInBhcnNlVGV4dCIsCiAgICB9LAogICAgewogICAgICAidHlwZSI6ICJsbGRiIiwKICAgICAgInJlcXVlc3QiOiAibGF1bmNoIiwKICAgICAgIm5hbWUiOiAiTGF1bmNoLUxMREIiLAogICAgICAicHJvZ3JhbSI6ICIke2ZvbGRlcn0vQmluYXJpZXMvd2luZG93cy14ODZfNjQvRGVidWcvQXBwL0FwcC5leGUiLAogICAgICAiYXJncyI6IFtdLAogICAgICAiY3dkIjogIiR7Zm9sZGVyfSIsCiAgICB9LAogIF0sCiAgIlN1YmxpbWVMaW50ZXIubGludGVycy5jbGFuZ3RpZHkuY29tcGlsZV9jb21tYW5kcyI6ICIke2ZvbGRlcn0iLAp9Cg",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGYCAAAAAAAAZgIAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					30,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"vi_eval",
+								{
+									"action_args":
+									{
+										"insert_command": "vi_delete"
+									},
+									"action_command": "enter_insert_mode",
+									"motion_args":
+									{
+										"repeat": 1
+									},
+									"motion_clip_to_line": false,
+									"motion_command": "vi_expand_to_words",
+									"motion_inclusive": false,
+									"motion_mode": 0
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "project_path"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"DQAAAF8CAAAAAAAAXwIAAAAAAAAGAAAAZm9sZGVyXwIAAAAAAABgAgAAAAAAAAAAAABgAgAAAAAAAGECAAAAAAAAAAAAAGECAAAAAAAAYgIAAAAAAAAAAAAAYgIAAAAAAABjAgAAAAAAAAAAAABjAgAAAAAAAGQCAAAAAAAAAAAAAGQCAAAAAAAAZQIAAAAAAAAAAAAAZQIAAAAAAABmAgAAAAAAAAAAAABmAgAAAAAAAGcCAAAAAAAAAAAAAGcCAAAAAAAAaAIAAAAAAAAAAAAAaAIAAAAAAABpAgAAAAAAAAAAAABpAgAAAAAAAGoCAAAAAAAAAAAAAGoCAAAAAAAAawIAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABkAgAAAAAAAGQCAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					32,
+					1,
+					"replace_view_content",
+					{
+						"region":
+						[
+							0,
+							625
+						],
+						"result": "{\n  \"folders\": [\n    {\n      \"path\": \"F:\\\\repos\\\\CppProjectTemplate\",\n    },\n  ],\n  \"debugger_configurations\": [\n    {\n      \"type\": \"gdb\",\n      \"request\": \"launch\",\n      \"name\": \"Launch-GDB\",\n      \"target\": \"${folder}/Binaries/windows-x86_64/Debug/App/App.exe\",\n      \"cwd\": \"${folder}\",\n      \"valuesFormatting\": \"parseText\",\n    },\n    {\n      \"type\": \"lldb\",\n      \"request\": \"launch\",\n      \"name\": \"Launch-LLDB\",\n      \"program\": \"${folder}/Binaries/windows-x86_64/Debug/App/App.exe\",\n      \"args\": [],\n      \"cwd\": \"${folder}\",\n    },\n  ],\n  \"SublimeLinter.linters.clangtidy.compile_commands\": \"${project_path}\",\n}\n"
+					},
+					"AQAAAAAAAAAAAAAAcQIAAAAAAABxAgAAewogICJmb2xkZXJzIjogWwogICAgewogICAgICAicGF0aCI6ICJGOlxccmVwb3NcXENwcFByb2plY3RUZW1wbGF0ZSIsCiAgICB9LAogIF0sCiAgImRlYnVnZ2VyX2NvbmZpZ3VyYXRpb25zIjogWwogICAgewogICAgICAidHlwZSI6ICJnZGIiLAogICAgICAicmVxdWVzdCI6ICJsYXVuY2giLAogICAgICAibmFtZSI6ICJMYXVuY2gtR0RCIiwKICAgICAgInRhcmdldCI6ICIke2ZvbGRlcn0vQmluYXJpZXMvd2luZG93cy14ODZfNjQvRGVidWcvQXBwL0FwcC5leGUiLAogICAgICAiY3dkIjogIiR7Zm9sZGVyfSIsCiAgICAgICJ2YWx1ZXNGb3JtYXR0aW5nIjogInBhcnNlVGV4dCIsCiAgICB9LAogICAgewogICAgICAidHlwZSI6ICJsbGRiIiwKICAgICAgInJlcXVlc3QiOiAibGF1bmNoIiwKICAgICAgIm5hbWUiOiAiTGF1bmNoLUxMREIiLAogICAgICAicHJvZ3JhbSI6ICIke2ZvbGRlcn0vQmluYXJpZXMvd2luZG93cy14ODZfNjQvRGVidWcvQXBwL0FwcC5leGUiLAogICAgICAiYXJncyI6IFtdLAogICAgICAiY3dkIjogIiR7Zm9sZGVyfSIsCiAgICB9LAogIF0sCiAgIlN1YmxpbWVMaW50ZXIubGludGVycy5jbGFuZ3RpZHkuY29tcGlsZV9jb21tYW5kcyI6ICIke3Byb2plY3RfcGF0aH0iLAp9Cg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABqAgAAAAAAAGoCAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					36,
+					1,
+					"replace_view_content",
+					{
+						"region":
+						[
+							0,
+							625
+						],
+						"result": "{\n  \"folders\": [\n    {\n      \"path\": \"F:\\\\repos\\\\CppProjectTemplate\",\n    },\n  ],\n  \"debugger_configurations\": [\n    {\n      \"type\": \"gdb\",\n      \"request\": \"launch\",\n      \"name\": \"Launch-GDB\",\n      \"target\": \"${folder}/Binaries/windows-x86_64/Debug/App/App.exe\",\n      \"cwd\": \"${folder}\",\n      \"valuesFormatting\": \"parseText\",\n    },\n    {\n      \"type\": \"lldb\",\n      \"request\": \"launch\",\n      \"name\": \"Launch-LLDB\",\n      \"program\": \"${folder}/Binaries/windows-x86_64/Debug/App/App.exe\",\n      \"args\": [],\n      \"cwd\": \"${folder}\",\n    },\n  ],\n  \"SublimeLinter.linters.clangtidy.compile_commands\": \"${project_path}\",\n}\n"
+					},
+					"AQAAAAAAAAAAAAAAcQIAAAAAAABxAgAAewogICJmb2xkZXJzIjogWwogICAgewogICAgICAicGF0aCI6ICJGOlxccmVwb3NcXENwcFByb2plY3RUZW1wbGF0ZSIsCiAgICB9LAogIF0sCiAgImRlYnVnZ2VyX2NvbmZpZ3VyYXRpb25zIjogWwogICAgewogICAgICAidHlwZSI6ICJnZGIiLAogICAgICAicmVxdWVzdCI6ICJsYXVuY2giLAogICAgICAibmFtZSI6ICJMYXVuY2gtR0RCIiwKICAgICAgInRhcmdldCI6ICIke2ZvbGRlcn0vQmluYXJpZXMvd2luZG93cy14ODZfNjQvRGVidWcvQXBwL0FwcC5leGUiLAogICAgICAiY3dkIjogIiR7Zm9sZGVyfSIsCiAgICAgICJ2YWx1ZXNGb3JtYXR0aW5nIjogInBhcnNlVGV4dCIsCiAgICB9LAogICAgewogICAgICAidHlwZSI6ICJsbGRiIiwKICAgICAgInJlcXVlc3QiOiAibGF1bmNoIiwKICAgICAgIm5hbWUiOiAiTGF1bmNoLUxMREIiLAogICAgICAicHJvZ3JhbSI6ICIke2ZvbGRlcn0vQmluYXJpZXMvd2luZG93cy14ODZfNjQvRGVidWcvQXBwL0FwcC5leGUiLAogICAgICAiYXJncyI6IFtdLAogICAgICAiY3dkIjogIiR7Zm9sZGVyfSIsCiAgICB9LAogIF0sCiAgIlN1YmxpbWVMaW50ZXIubGludGVycy5jbGFuZ3RpZHkuY29tcGlsZV9jb21tYW5kcyI6ICIke3Byb2plY3RfcGF0aH0iLAp9Cg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABqAgAAAAAAAGoCAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					23,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"vi_eval",
+								{
+									"action_args":
+									{
+										"insert_command": "vi_delete"
+									},
+									"action_command": "enter_insert_mode",
+									"motion_args":
+									{
+										"repeat": 1
+									},
+									"motion_clip_to_line": false,
+									"motion_command": "vi_expand_to_words",
+									"motion_inclusive": false,
+									"motion_mode": 0
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "projec"
+								}
+							],
+							[
+								"delete_word",
+								{
+									"forward": false
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "folder:w"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "windows-x86_64",
+									"format": "text",
+									"keep_prefix": false,
+									"must_insert": false,
+									"trigger": "windows-x86_64"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"IQAAAF8CAAAAAAAAXwIAAAAAAAAMAAAAcHJvamVjdF9wYXRoXwIAAAAAAABgAgAAAAAAAAAAAABgAgAAAAAAAGECAAAAAAAAAAAAAGECAAAAAAAAYgIAAAAAAAAAAAAAYgIAAAAAAABjAgAAAAAAAAAAAABjAgAAAAAAAGQCAAAAAAAAAAAAAGQCAAAAAAAAZQIAAAAAAAAAAAAAXwIAAAAAAABfAgAAAAAAAAYAAABwcm9qZWNfAgAAAAAAAGACAAAAAAAAAAAAAGACAAAAAAAAYQIAAAAAAAAAAAAAYQIAAAAAAABiAgAAAAAAAAAAAABiAgAAAAAAAGMCAAAAAAAAAAAAAGMCAAAAAAAAZAIAAAAAAAAAAAAAZAIAAAAAAABlAgAAAAAAAAAAAABlAgAAAAAAAGYCAAAAAAAAAAAAAGYCAAAAAAAAZwIAAAAAAAAAAAAAZgIAAAAAAABmAgAAAAAAAAEAAAB3ZgIAAAAAAAB0AgAAAAAAAAAAAABzAgAAAAAAAHMCAAAAAAAAAQAAADRyAgAAAAAAAHICAAAAAAAAAQAAADZxAgAAAAAAAHECAAAAAAAAAQAAAF9wAgAAAAAAAHACAAAAAAAAAQAAADZvAgAAAAAAAG8CAAAAAAAAAQAAADhuAgAAAAAAAG4CAAAAAAAAAQAAAHhtAgAAAAAAAG0CAAAAAAAAAQAAAC1sAgAAAAAAAGwCAAAAAAAAAQAAAHNrAgAAAAAAAGsCAAAAAAAAAQAAAHdqAgAAAAAAAGoCAAAAAAAAAQAAAG9pAgAAAAAAAGkCAAAAAAAAAQAAAGRoAgAAAAAAAGgCAAAAAAAAAQAAAG5nAgAAAAAAAGcCAAAAAAAAAQAAAGlmAgAAAAAAAGYCAAAAAAAAAQAAAHdlAgAAAAAAAGUCAAAAAAAAAQAAADo",
+					"AQAAAAAAAAABAAAAXwIAAAAAAABfAgAAAAAAAAAAAAAAsHtA"
+				],
+				[
+					25,
+					1,
+					"replace_view_content",
+					{
+						"region":
+						[
+							0,
+							619
+						],
+						"result": "{\n  \"folders\": [\n    {\n      \"path\": \"F:\\\\repos\\\\CppProjectTemplate\",\n    },\n  ],\n  \"debugger_configurations\": [\n    {\n      \"type\": \"gdb\",\n      \"request\": \"launch\",\n      \"name\": \"Launch-GDB\",\n      \"target\": \"${folder}/Binaries/windows-x86_64/Debug/App/App.exe\",\n      \"cwd\": \"${folder}\",\n      \"valuesFormatting\": \"parseText\",\n    },\n    {\n      \"type\": \"lldb\",\n      \"request\": \"launch\",\n      \"name\": \"Launch-LLDB\",\n      \"program\": \"${folder}/Binaries/windows-x86_64/Debug/App/App.exe\",\n      \"args\": [],\n      \"cwd\": \"${folder}\",\n    },\n  ],\n  \"SublimeLinter.linters.clangtidy.compile_commands\": \"${folder}\",\n}\n"
+					},
+					"AQAAAAAAAAAAAAAAawIAAAAAAABrAgAAewogICJmb2xkZXJzIjogWwogICAgewogICAgICAicGF0aCI6ICJGOlxccmVwb3NcXENwcFByb2plY3RUZW1wbGF0ZSIsCiAgICB9LAogIF0sCiAgImRlYnVnZ2VyX2NvbmZpZ3VyYXRpb25zIjogWwogICAgewogICAgICAidHlwZSI6ICJnZGIiLAogICAgICAicmVxdWVzdCI6ICJsYXVuY2giLAogICAgICAibmFtZSI6ICJMYXVuY2gtR0RCIiwKICAgICAgInRhcmdldCI6ICIke2ZvbGRlcn0vQmluYXJpZXMvd2luZG93cy14ODZfNjQvRGVidWcvQXBwL0FwcC5leGUiLAogICAgICAiY3dkIjogIiR7Zm9sZGVyfSIsCiAgICAgICJ2YWx1ZXNGb3JtYXR0aW5nIjogInBhcnNlVGV4dCIsCiAgICB9LAogICAgewogICAgICAidHlwZSI6ICJsbGRiIiwKICAgICAgInJlcXVlc3QiOiAibGF1bmNoIiwKICAgICAgIm5hbWUiOiAiTGF1bmNoLUxMREIiLAogICAgICAicHJvZ3JhbSI6ICIke2ZvbGRlcn0vQmluYXJpZXMvd2luZG93cy14ODZfNjQvRGVidWcvQXBwL0FwcC5leGUiLAogICAgICAiYXJncyI6IFtdLAogICAgICAiY3dkIjogIiR7Zm9sZGVyfSIsCiAgICB9LAogIF0sCiAgIlN1YmxpbWVMaW50ZXIubGludGVycy5jbGFuZ3RpZHkuY29tcGlsZV9jb21tYW5kcyI6ICIke2ZvbGRlcn0iLAp9Cg",
+					"AQAAAAAAAAABAAAAZAIAAAAAAABkAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					29,
+					1,
+					"replace_view_content",
+					{
+						"region":
+						[
+							0,
+							619
+						],
+						"result": "{\n  \"folders\": [\n    {\n      \"path\": \"F:\\\\repos\\\\CppProjectTemplate\",\n    },\n  ],\n  \"debugger_configurations\": [\n    {\n      \"type\": \"gdb\",\n      \"request\": \"launch\",\n      \"name\": \"Launch-GDB\",\n      \"target\": \"${folder}/Binaries/windows-x86_64/Debug/App/App.exe\",\n      \"cwd\": \"${folder}\",\n      \"valuesFormatting\": \"parseText\",\n    },\n    {\n      \"type\": \"lldb\",\n      \"request\": \"launch\",\n      \"name\": \"Launch-LLDB\",\n      \"program\": \"${folder}/Binaries/windows-x86_64/Debug/App/App.exe\",\n      \"args\": [],\n      \"cwd\": \"${folder}\",\n    },\n  ],\n  \"SublimeLinter.linters.clangtidy.compile_commands\": \"${folder}\",\n}\n"
+					},
+					"AQAAAAAAAAAAAAAAawIAAAAAAABrAgAAewogICJmb2xkZXJzIjogWwogICAgewogICAgICAicGF0aCI6ICJGOlxccmVwb3NcXENwcFByb2plY3RUZW1wbGF0ZSIsCiAgICB9LAogIF0sCiAgImRlYnVnZ2VyX2NvbmZpZ3VyYXRpb25zIjogWwogICAgewogICAgICAidHlwZSI6ICJnZGIiLAogICAgICAicmVxdWVzdCI6ICJsYXVuY2giLAogICAgICAibmFtZSI6ICJMYXVuY2gtR0RCIiwKICAgICAgInRhcmdldCI6ICIke2ZvbGRlcn0vQmluYXJpZXMvd2luZG93cy14ODZfNjQvRGVidWcvQXBwL0FwcC5leGUiLAogICAgICAiY3dkIjogIiR7Zm9sZGVyfSIsCiAgICAgICJ2YWx1ZXNGb3JtYXR0aW5nIjogInBhcnNlVGV4dCIsCiAgICB9LAogICAgewogICAgICAidHlwZSI6ICJsbGRiIiwKICAgICAgInJlcXVlc3QiOiAibGF1bmNoIiwKICAgICAgIm5hbWUiOiAiTGF1bmNoLUxMREIiLAogICAgICAicHJvZ3JhbSI6ICIke2ZvbGRlcn0vQmluYXJpZXMvd2luZG93cy14ODZfNjQvRGVidWcvQXBwL0FwcC5leGUiLAogICAgICAiYXJncyI6IFtdLAogICAgICAiY3dkIjogIiR7Zm9sZGVyfSIsCiAgICB9LAogIF0sCiAgIlN1YmxpbWVMaW50ZXIubGludGVycy5jbGFuZ3RpZHkuY29tcGlsZV9jb21tYW5kcyI6ICIke2ZvbGRlcn0iLAp9Cg",
+					"AQAAAAAAAAABAAAAZAIAAAAAAABkAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					33,
+					1,
+					"replace_view_content",
+					{
+						"region":
+						[
+							0,
+							619
+						],
+						"result": "{\n  \"folders\": [\n    {\n      \"path\": \"F:\\\\repos\\\\CppProjectTemplate\",\n    },\n  ],\n  \"debugger_configurations\": [\n    {\n      \"type\": \"gdb\",\n      \"request\": \"launch\",\n      \"name\": \"Launch-GDB\",\n      \"target\": \"${folder}/Binaries/windows-x86_64/Debug/App/App.exe\",\n      \"cwd\": \"${folder}\",\n      \"valuesFormatting\": \"parseText\",\n    },\n    {\n      \"type\": \"lldb\",\n      \"request\": \"launch\",\n      \"name\": \"Launch-LLDB\",\n      \"program\": \"${folder}/Binaries/windows-x86_64/Debug/App/App.exe\",\n      \"args\": [],\n      \"cwd\": \"${folder}\",\n    },\n  ],\n  \"SublimeLinter.linters.clangtidy.compile_commands\": \"${folder}\",\n}\n"
+					},
+					"AQAAAAAAAAAAAAAAawIAAAAAAABrAgAAewogICJmb2xkZXJzIjogWwogICAgewogICAgICAicGF0aCI6ICJGOlxccmVwb3NcXENwcFByb2plY3RUZW1wbGF0ZSIsCiAgICB9LAogIF0sCiAgImRlYnVnZ2VyX2NvbmZpZ3VyYXRpb25zIjogWwogICAgewogICAgICAidHlwZSI6ICJnZGIiLAogICAgICAicmVxdWVzdCI6ICJsYXVuY2giLAogICAgICAibmFtZSI6ICJMYXVuY2gtR0RCIiwKICAgICAgInRhcmdldCI6ICIke2ZvbGRlcn0vQmluYXJpZXMvd2luZG93cy14ODZfNjQvRGVidWcvQXBwL0FwcC5leGUiLAogICAgICAiY3dkIjogIiR7Zm9sZGVyfSIsCiAgICAgICJ2YWx1ZXNGb3JtYXR0aW5nIjogInBhcnNlVGV4dCIsCiAgICB9LAogICAgewogICAgICAidHlwZSI6ICJsbGRiIiwKICAgICAgInJlcXVlc3QiOiAibGF1bmNoIiwKICAgICAgIm5hbWUiOiAiTGF1bmNoLUxMREIiLAogICAgICAicHJvZ3JhbSI6ICIke2ZvbGRlcn0vQmluYXJpZXMvd2luZG93cy14ODZfNjQvRGVidWcvQXBwL0FwcC5leGUiLAogICAgICAiYXJncyI6IFtdLAogICAgICAiY3dkIjogIiR7Zm9sZGVyfSIsCiAgICB9LAogIF0sCiAgIlN1YmxpbWVMaW50ZXIubGludGVycy5jbGFuZ3RpZHkuY29tcGlsZV9jb21tYW5kcyI6ICIke2ZvbGRlcn0iLAp9Cg",
+					"AQAAAAAAAAABAAAAZAIAAAAAAABkAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					51,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"run_macro_file",
+								{
+									"file": "res://Packages/Default/Add Line Before.sublime-macro",
+									"register": "\""
+								}
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "\"$0\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "settings"
+								}
+							],
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": ":"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "{$0}"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"DgAAACYCAAAAAAAAJwIAAAAAAAAAAAAAJgIAAAAAAAAoAgAAAAAAAAAAAAAoAgAAAAAAACoCAAAAAAAAAAAAACkCAAAAAAAAKgIAAAAAAAAAAAAAKgIAAAAAAAArAgAAAAAAAAAAAAArAgAAAAAAACwCAAAAAAAAAAAAACwCAAAAAAAALQIAAAAAAAAAAAAALQIAAAAAAAAuAgAAAAAAAAAAAAAuAgAAAAAAAC8CAAAAAAAAAAAAAC8CAAAAAAAAMAIAAAAAAAAAAAAAMAIAAAAAAAAxAgAAAAAAAAAAAAAyAgAAAAAAADMCAAAAAAAAAAAAADMCAAAAAAAANAIAAAAAAAAAAAAANAIAAAAAAAA2AgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXgIAAAAAAABeAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					55,
+					1,
+					"vi_eval",
+					{
+						"action_args":
+						{
+						},
+						"action_command": "vi_right_delete",
+						"motion_args":
+						{
+						},
+						"motion_clip_to_line": false,
+						"motion_command": null,
+						"motion_inclusive": false,
+						"motion_mode": 0
+					},
+					"AQAAADUCAAAAAAAANQIAAAAAAAABAAAAfQ",
+					"AQAAAAAAAAABAAAANQIAAAAAAAA1AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					59,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"run_macro_file",
+								{
+									"file": "res://Packages/Default/Add Line.sublime-macro",
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "}"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"BQAAAHgCAAAAAAAAeQIAAAAAAAAAAAAAeQIAAAAAAAB7AgAAAAAAAAAAAAB7AgAAAAAAAHwCAAAAAAAAAAAAAHkCAAAAAAAAeQIAAAAAAAACAAAAICB5AgAAAAAAAHkCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARAIAAAAAAABEAgAAAAAAAAAAAAAAQFtA"
+				],
+				[
+					62,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true,
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": ","
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"AQAAAHoCAAAAAAAAewIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAeQIAAAAAAAB5AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					64,
+					1,
+					"replace_view_content",
+					{
+						"region":
+						[
+							0,
+							638
+						],
+						"result": "{\n  \"folders\": [\n    {\n      \"path\": \"F:\\\\repos\\\\CppProjectTemplate\",\n    },\n  ],\n  \"debugger_configurations\": [\n    {\n      \"type\": \"gdb\",\n      \"request\": \"launch\",\n      \"name\": \"Launch-GDB\",\n      \"target\": \"${folder}/Binaries/windows-x86_64/Debug/App/App.exe\",\n      \"cwd\": \"${folder}\",\n      \"valuesFormatting\": \"parseText\",\n    },\n    {\n      \"type\": \"lldb\",\n      \"request\": \"launch\",\n      \"name\": \"Launch-LLDB\",\n      \"program\": \"${folder}/Binaries/windows-x86_64/Debug/App/App.exe\",\n      \"args\": [],\n      \"cwd\": \"${folder}\",\n    },\n  ],\n  \"settings\": {\n    \"SublimeLinter.linters.clangtidy.compile_commands\": \"${folder}\",\n  },\n}\n"
+					},
+					"AQAAAAAAAAAAAAAAggIAAAAAAAB+AgAAewogICJmb2xkZXJzIjogWwogICAgewogICAgICAicGF0aCI6ICJGOlxccmVwb3NcXENwcFByb2plY3RUZW1wbGF0ZSIsCiAgICB9LAogIF0sCiAgImRlYnVnZ2VyX2NvbmZpZ3VyYXRpb25zIjogWwogICAgewogICAgICAidHlwZSI6ICJnZGIiLAogICAgICAicmVxdWVzdCI6ICJsYXVuY2giLAogICAgICAibmFtZSI6ICJMYXVuY2gtR0RCIiwKICAgICAgInRhcmdldCI6ICIke2ZvbGRlcn0vQmluYXJpZXMvd2luZG93cy14ODZfNjQvRGVidWcvQXBwL0FwcC5leGUiLAogICAgICAiY3dkIjogIiR7Zm9sZGVyfSIsCiAgICAgICJ2YWx1ZXNGb3JtYXR0aW5nIjogInBhcnNlVGV4dCIsCiAgICB9LAogICAgewogICAgICAidHlwZSI6ICJsbGRiIiwKICAgICAgInJlcXVlc3QiOiAibGF1bmNoIiwKICAgICAgIm5hbWUiOiAiTGF1bmNoLUxMREIiLAogICAgICAicHJvZ3JhbSI6ICIke2ZvbGRlcn0vQmluYXJpZXMvd2luZG93cy14ODZfNjQvRGVidWcvQXBwL0FwcC5leGUiLAogICAgICAiYXJncyI6IFtdLAogICAgICAiY3dkIjogIiR7Zm9sZGVyfSIsCiAgICB9LAogIF0sCiAgInNldHRpbmdzIjogewogICJTdWJsaW1lTGludGVyLmxpbnRlcnMuY2xhbmd0aWR5LmNvbXBpbGVfY29tbWFuZHMiOiAiJHtmb2xkZXJ9IiwKfSwKfQo",
+					"AQAAAAAAAAABAAAAegIAAAAAAAB6AgAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"linter show all",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"linter sett",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"linter sho",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"linter settings",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"sublime settings",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				":ew",
+				":w - Save"
+			],
+			[
+				"sublime show",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"linter: sho",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git add ",
+				"Git: Add Current File"
+			],
+			[
+				" linter settings",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"linter",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"sublime linter lint this high",
+				"SublimeLinter: Toggle Highlights"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Debugger: star",
+				"Debugger: Start (no debug)"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"formatter: settinsg",
+				"Formatter: Settings"
+			],
+			[
+				"formatter: settings",
+				"Formatter: Settings"
+			],
+			[
+				":q",
+				"Set Syntax: SQL"
+			],
+			[
+				"Termin toggle",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"Debugger Start",
+				"Debugger: Start (no debug)"
+			],
+			[
+				"formatter: ",
+				"Formatter: Key Bindings"
+			],
+			[
+				" Debugger: Add",
+				"Debugger: Add Configuration"
+			],
+			[
+				"Debugger: Start",
+				"Debugger: Start (no debug)"
+			],
+			[
+				"Debugger: Add",
+				"Debugger: Add Configuration"
+			],
+			[
+				"oroject",
+				"Project: Edit Project"
+			],
+			[
+				"D",
+				"Debugger: Open"
+			],
+			[
+				"Debugger: ",
+				"Debugger: Open"
+			],
+			[
+				"project: ",
+				"Project: Edit Project"
+			],
+			[
+				"Debugger: Install",
+				"Debugger: Install Adapters"
+			],
+			[
+				"Debugger: start",
+				"Debugger: Start (no debug)"
+			],
+			[
+				"preferences: Debu",
+				"Preferences: Debugger Settings"
+			],
+			[
+				"Debugger: Op",
+				"Debugger: Open"
+			],
+			[
+				"Debugger: Run",
+				"Debugger: Run Task"
+			],
+			[
+				"Debugger: Insta",
+				"Debugger: Install Adapters"
+			],
+			[
+				"settin",
+				"Preferences: Settings"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"terminus",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"build",
+				"Build With: CustomCpp"
+			],
+			[
+				"colorsch",
+				"UI: Select Color Scheme"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"ui",
+				"UI: Customize Color Scheme"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"br",
+				"Preferences: Browse Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"prefer",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 182.0,
+		"history":
+		[
+			"g++",
+			"subl",
+			"pwd",
+			"waht ",
+			"echo \"hi\""
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/F/repos/CppProjectTemplate"
+	],
+	"file_history":
+	[
+		"/F/repos/CppProjectTemplate/TextEditor.sublime-project",
+		"/F/repos/CppProjectTemplate/App/Build-App.lua",
+		"/F/repos/CppProjectTemplate/Build.lua",
+		"/F/repos/CppProjectTemplate/Core/Build-Core.lua",
+		"/F/repos/CppProjectTemplate/compile_commands.json",
+		"/F/repos/CppProjectTemplate/Makefile",
+		"/F/repos/CppProjectTemplate/minimal-premake.lua",
+		"/F/repos/CppProjectTemplate/.gitignore",
+		"/F/repos/CppProjectTemplate/App/Source/App.cpp",
+		"/F/repos/CppProjectTemplate/Core/Source/Core/Core.cpp",
+		"/C/Users/uni/AppData/Roaming/Sublime Text/Packages/Formatter/Example.sublime-keymap",
+		"/C/Users/uni/AppData/Roaming/Sublime Text/Packages/User/Default (Windows).sublime-keymap",
+		"/F/repos/CppProjectTemplate/Debugger.sublime-project",
+		"/F/repos/CppProjectTemplate/CppDebugger.sublime-project",
+		"/C/Users/uni/Desktop/New Text Document.txt",
+		"/C/Users/uni/AppData/Roaming/Sublime Text/Packages/User/custom-builds/Cpp-TheCherno.sublime-build",
+		"/C/Users/uni/Desktop/competetive-build/file.cpp",
+		"/C/Users/uni/AppData/Roaming/Sublime Text/Packages/User/custom-builds/CompetetiveCpp.sublime-build",
+		"/C/Users/uni/AppData/Roaming/Sublime Text/Packages/User/custom-builds/cpp-TheCherno.sublime-build",
+		"/C/Users/uni/Desktop/competetive-build/outputf.in",
+		"/C/Users/uni/Desktop/competetive-build/inputf.in",
+		"/C/Users/uni/AppData/Roaming/Sublime Text/Packages/User/custom-builds/CustomCpp.sublime-build",
+		"/C/Users/uni/AppData/Roaming/Sublime Text/Packages/User/Preferences.sublime-settings",
+		"/C/Users/uni/AppData/Roaming/Sublime Text/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/uni/AppData/Roaming/Sublime Text/Packages/Aura Theme Color Scheme/aura-theme",
+		"/C/Users/uni/Downloads/Aura Theme Color Scheme.txt",
+		"/C/Users/uni/Desktop/hello.cpp",
+		"/C/Users/uni/Desktop/HelloWorld.cpp"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "App/Source/App.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 63,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								62,
+								62
+							]
+						],
+						"settings":
+						{
+							"show_line_column": "disabled",
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "README.md",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1955,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "TextEditor.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 642,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								569,
+								569
+							]
+						],
+						"settings":
+						{
+							"show_line_column": "disabled",
+							"syntax": "Packages/JSON/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Debugger":
+	{
+		"height": 242.0
+	},
+	"output.Debugger Console":
+	{
+		"height": 282.0
+	},
+	"output.Debugger Terminal":
+	{
+		"height": 242.0
+	},
+	"output.SublimeLinter":
+	{
+		"height": 122.0
+	},
+	"output.Terminus":
+	{
+		"height": 122.0
+	},
+	"output.exec":
+	{
+		"height": 122.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 122.0
+	},
+	"pinned_build_system": "Packages/User/custom-builds/Cpp-TheCherno.sublime-build",
+	"project": "TextEditor.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 226.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

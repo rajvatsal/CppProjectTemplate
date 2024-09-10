@@ -9,7 +9,6 @@ Binaries/
 *.sln
 *.log
 Makefile
-*.sublime*
 
 # Exclude
 !Vendor/Binaries

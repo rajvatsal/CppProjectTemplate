@@ -1,17 +1,18 @@
--- premake5.lua
-workspace "New Project"
-   architecture "x64"
+-- build.lua
+workspace "MyWorkspace"
+   architecture "x86_64"
    configurations { "Debug", "Release", "Dist" }
    startproject "App"
 
-   -- Workspace-wide build options for MSVC
-   filter "system:windows"
-      buildoptions { "/EHsc", "/Zc:preprocessor", "/Zc:__cplusplus" }
+   OutputDir = "%{cfg.system}-%{cfg.architecture}/%{cfg.buildcfg}"
 
-OutputDir = "%{cfg.system}-%{cfg.architecture}/%{cfg.buildcfg}"
+  -- group for core projects
+   group "core"
+      include "Core/Build-core.lua"
 
-group "Core"
-	include "Core/Build-Core.lua"
-group ""
+   -- group for app projects
+   group "app"
+      include "App/Build-app.lua"
 
-include "App/Build-App.lua"
+   -- back to root group
+   group ""

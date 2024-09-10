@@ -1,0 +1,28 @@
+{
+  "folders": [
+    {
+      "path": "F:\\repos\\CppProjectTemplate",
+    },
+  ],
+  "debugger_configurations": [
+    {
+      "type": "gdb",
+      "request": "launch",
+      "name": "Launch-GDB",
+      "target": "${folder}/Binaries/windows-x86_64/Debug/App/App.exe",
+      "cwd": "${folder}",
+      "valuesFormatting": "parseText",
+    },
+    {
+      "type": "lldb",
+      "request": "launch",
+      "name": "Launch-LLDB",
+      "program": "${folder}/Binaries/windows-x86_64/Debug/App/App.exe",
+      "args": [],
+      "cwd": "${folder}",
+    },
+  ],
+  "settings": {
+    "SublimeLinter.linters.clangtidy.compile_commands": "${folder}",
+  },
+}

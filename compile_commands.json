@@ -1,0 +1,45 @@
+[
+ {
+  "directory": "F:\\repos\\CppProjectTemplate",
+  "arguments": [
+   "g++",
+   "-MD",
+   "-MP",
+   "-DWINDOWS",
+   "-DDEBUG",
+   "-ICore/Source",
+   "-m64",
+   "-g",
+   "-std=c++20",
+   "-o",
+   "../Binaries/Intermediates/windows-x86_64/Debug/Core/Core.o",
+   "-MF",
+   "../Binaries/Intermediates/windows-x86_64/Debug/Core/Core.d",
+   "-c",
+   "Core/Source/Core/Core.cpp"
+  ],
+  "file": "Core/Source/Core/Core.cpp"
+ },
+ {
+  "directory": "F:\\repos\\CppProjectTemplate",
+  "arguments": [
+   "g++",
+   "-MD",
+   "-MP",
+   "-DWINDOWS",
+   "-DDEBUG",
+   "-ICore/Source",
+   "-IApp/Source",
+   "-m64",
+   "-g",
+   "-std=c++20",
+   "-o",
+   "../Binaries/Intermediates/windows-x86_64/Debug/App/App.o",
+   "-MF",
+   "../Binaries/Intermediates/windows-x86_64/Debug/App/App.d",
+   "-c",
+   "App/Source/App.cpp"
+  ],
+  "file": "App/Source/App.cpp"
+ }
+]

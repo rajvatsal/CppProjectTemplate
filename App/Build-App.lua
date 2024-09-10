@@ -1,45 +1,32 @@
+-- App/Build-App.lua
 project "App"
    kind "ConsoleApp"
    language "C++"
    cppdialect "C++20"
-   targetdir "Binaries/%{cfg.buildcfg}"
+   targetdir ("../Binaries/" .. OutputDir .. "/App")
+   objdir ("../Binaries/Intermediates/" .. OutputDir .. "/App")
    staticruntime "off"
 
    files { "Source/**.h", "Source/**.cpp" }
 
-   includedirs
-   {
-      "Source",
-
-	  -- Include Core
-	  "../Core/Source"
-   }
-
-   links
-   {
-      "Core"
-   }
-
-   targetdir ("../Binaries/" .. OutputDir .. "/%{prj.name}")
-   objdir ("../Binaries/Intermediates/" .. OutputDir .. "/%{prj.name}")
+   includedirs { "Source", "../Core/Source" }
+   links { "Core" }
 
    filter "system:windows"
-       systemversion "latest"
-       defines { "WINDOWS" }
+      systemversion "latest"
 
    filter "configurations:Debug"
-       defines { "DEBUG" }
-       runtime "Debug"
-       symbols "On"
+      defines { "DEBUG" }
+      runtime "Debug"
+      symbols "On"
 
    filter "configurations:Release"
-       defines { "RELEASE" }
-       runtime "Release"
-       optimize "On"
-       symbols "On"
+      defines { "RELEASE" }
+      runtime "Release"
+      optimize "On"
 
    filter "configurations:Dist"
-       defines { "DIST" }
-       runtime "Release"
-       optimize "On"
-       symbols "Off"
+      defines { "DIST" }
+      runtime "Release"
+      optimize "On"
+      symbols "Off"
