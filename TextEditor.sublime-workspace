@@ -7,14 +7,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "/F/repos/CppProjectTemplate/Build.lua",
-			"settings":
-			{
-				"buffer_size": 400,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -27,6 +19,26 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"debugger sett",
+				"Preferences: Debugger Settings"
+			],
+			[
+				"git push curr",
+				"Git: Push Current Branch"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				":Git commi",
+				"Set Syntax: Git Commit"
+			],
+			[
+				"git add all",
+				"Git: Add All"
+			],
 			[
 				":w",
 				":w - Save"
@@ -66,10 +78,6 @@
 			[
 				"linter: sho",
 				"SublimeLinter: Show All Errors"
-			],
-			[
-				"git commit",
-				"Git: Commit"
 			],
 			[
 				"git add ",
@@ -267,24 +275,18 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/F/repos/CppProjectTemplate"
-	],
 	"file_history":
 	[
-		"/F/repos/CppProjectTemplate/WorkspaceSettings/TextEditor.sublime-project",
-		"/F/repos/CppProjectTemplate/WorkspaceSettings/App/Source/App.cpp",
-		"/F/repos/CppProjectTemplate/WorkspaceSettings/README.md",
+		"/F/repos/CppProjectTemplate/App/Source/App.cpp",
+		"/F/repos/CppProjectTemplate/.gitignore",
 		"/F/repos/CppProjectTemplate/TextEditor.sublime-project",
+		"/F/repos/CppProjectTemplate/README.md",
 		"/F/repos/CppProjectTemplate/App/Build-App.lua",
 		"/F/repos/CppProjectTemplate/Build.lua",
 		"/F/repos/CppProjectTemplate/Core/Build-Core.lua",
 		"/F/repos/CppProjectTemplate/compile_commands.json",
 		"/F/repos/CppProjectTemplate/Makefile",
 		"/F/repos/CppProjectTemplate/minimal-premake.lua",
-		"/F/repos/CppProjectTemplate/.gitignore",
-		"/F/repos/CppProjectTemplate/App/Source/App.cpp",
 		"/F/repos/CppProjectTemplate/Core/Source/Core/Core.cpp",
 		"/C/Users/uni/AppData/Roaming/Sublime Text/Packages/Formatter/Example.sublime-keymap",
 		"/C/Users/uni/AppData/Roaming/Sublime Text/Packages/User/Default (Windows).sublime-keymap",
@@ -342,38 +344,6 @@
 		{
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "/F/repos/CppProjectTemplate/Build.lua",
-					"selected": true,
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 400,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								347,
-								347
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Lua/Lua.sublime-syntax",
-							"tab_size": 3,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"stack_multiselect": false,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -426,7 +396,7 @@
 	},
 	"output.Terminus":
 	{
-		"height": 122.0
+		"height": 198.0
 	},
 	"output.exec":
 	{

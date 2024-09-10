@@ -1,3 +1,4 @@
+---@diagnostic disable: undefined-global
 -- build.lua
 workspace "MyWorkspace"
    architecture "x86_64"
