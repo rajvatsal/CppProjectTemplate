@@ -9,7 +9,7 @@ Binaries/
 *.sln
 *.log
 Makefile
-.sublime-workspace
+*.sublime-workspace
 
 # Exclude
 !Vendor/Binaries
