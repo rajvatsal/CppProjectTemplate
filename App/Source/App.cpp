@@ -1,3 +1,3 @@
-#include "Core/Core.h"
+#include "Core/Core.cpp"
 
 int main() { Core::PrintHelloWorld(); }
